@@ -1,4 +1,4 @@
- - <h1 align="center">Hi, I'm Marco 👋</h1>
+<h1 align="center">Hi, I'm Marco 👋</h1>
 <h3 align="center">Junior Full-Stack Developer · Esposende, Portugal 🇵🇹</h3>
 
 <p align="center">
