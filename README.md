@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marco-martins-97&show_icons=true&theme=default&hide_border=true" alt="Marco's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marco-martins-97&hide_border=true" alt="Marco's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=marco-martins-97&hide_border=true" alt="Marco's GitHub streak" height="165"/>
 </p>
 
 ### 📫 Reach me
